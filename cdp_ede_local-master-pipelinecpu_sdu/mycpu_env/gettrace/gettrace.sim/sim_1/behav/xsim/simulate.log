@@ -1,0 +1,55 @@
+Time resolution is 1 ps
+==============================================================
+Test begin!
+----[   2545 ns] Number 8'd01 Functional Test Point PASS!!!
+----[   3295 ns] Number 8'd02 Functional Test Point PASS!!!
+----[   4045 ns] Number 8'd03 Functional Test Point PASS!!!
+----[   4795 ns] Number 8'd04 Functional Test Point PASS!!!
+----[   5465 ns] Number 8'd05 Functional Test Point PASS!!!
+----[   6215 ns] Number 8'd06 Functional Test Point PASS!!!
+----[   6805 ns] Number 8'd07 Functional Test Point PASS!!!
+----[   7395 ns] Number 8'd08 Functional Test Point PASS!!!
+----[   7985 ns] Number 8'd09 Functional Test Point PASS!!!
+----[   8575 ns] Number 8'd10 Functional Test Point PASS!!!
+----[   9085 ns] Number 8'd11 Functional Test Point PASS!!!
+----[   9595 ns] Number 8'd12 Functional Test Point PASS!!!
+----[  10105 ns] Number 8'd13 Functional Test Point PASS!!!
+----[  11015 ns] Number 8'd14 Functional Test Point PASS!!!
+----[  11925 ns] Number 8'd15 Functional Test Point PASS!!!
+----[  12805 ns] Number 8'd16 Functional Test Point PASS!!!
+----[  13955 ns] Number 8'd17 Functional Test Point PASS!!!
+----[  15265 ns] Number 8'd18 Functional Test Point PASS!!!
+----[  16495 ns] Number 8'd19 Functional Test Point PASS!!!
+----[  17525 ns] Number 8'd20 Functional Test Point PASS!!!
+----[  18155 ns] Number 8'd21 Functional Test Point PASS!!!
+----[  18605 ns] Number 8'd22 Functional Test Point PASS!!!
+----[  19055 ns] Number 8'd23 Functional Test Point PASS!!!
+----[  19565 ns] Number 8'd24 Functional Test Point PASS!!!
+----[  20075 ns] Number 8'd25 Functional Test Point PASS!!!
+----[  20585 ns] Number 8'd26 Functional Test Point PASS!!!
+----[  21095 ns] Number 8'd27 Functional Test Point PASS!!!
+----[  21685 ns] Number 8'd28 Functional Test Point PASS!!!
+        [  22000 ns] Test is running, debug_wb_pc = 0x1c011868
+----[  22275 ns] Number 8'd29 Functional Test Point PASS!!!
+----[  22755 ns] Number 8'd30 Functional Test Point PASS!!!
+----[  23165 ns] Number 8'd31 Functional Test Point PASS!!!
+----[  23725 ns] Number 8'd32 Functional Test Point PASS!!!
+----[  24205 ns] Number 8'd33 Functional Test Point PASS!!!
+----[  24685 ns] Number 8'd34 Functional Test Point PASS!!!
+----[  25175 ns] Number 8'd35 Functional Test Point PASS!!!
+----[  25665 ns] Number 8'd36 Functional Test Point PASS!!!
+----[  26255 ns] Number 8'd37 Functional Test Point PASS!!!
+----[  26845 ns] Number 8'd38 Functional Test Point PASS!!!
+----[  27435 ns] Number 8'd39 Functional Test Point PASS!!!
+----[  28025 ns] Number 8'd40 Functional Test Point PASS!!!
+----[  28775 ns] Number 8'd41 Functional Test Point PASS!!!
+----[  29525 ns] Number 8'd42 Functional Test Point PASS!!!
+----[  30275 ns] Number 8'd43 Functional Test Point PASS!!!
+----[  31025 ns] Number 8'd44 Functional Test Point PASS!!!
+----[  31865 ns] Number 8'd45 Functional Test Point PASS!!!
+        [  32000 ns] Test is running, debug_wb_pc = 0x1c010258
+----[  32705 ns] Number 8'd46 Functional Test Point PASS!!!
+==============================================================
+gettrace end!
+----Succeed in generating trace file!
+$finish called at time : 33035 ns : File "D:/NSCSCC/loongarch/cdp_ede_local-master-pipelinecpu_sdu/mycpu_env/gettrace/src/tb_top.v" Line 224
